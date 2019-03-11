@@ -1,4 +1,4 @@
-Josephus problem | Set 1 (A O(n) Solution)
+Josephus problem  Solution
 
 In computer science and mathematics, the Josephus Problem 
 (or Josephus permutation) is a theoretical problem. Following
