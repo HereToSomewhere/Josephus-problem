@@ -44,7 +44,7 @@ namespace josephus_probelm
                 if(a[i]!=0)
                 {
                     Console.WriteLine("\n");
-                    Console.WriteLine(a[i]+ "th is the alive person with the freedom\n");
+                    Console.WriteLine(a[i]+ " is the alive person with the freedom\n");
                     break;
                 }
             }
